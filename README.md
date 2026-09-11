@@ -1,5 +1,5 @@
 # SAMF — Production Engineering & Workflow Architecture
-## Documentary · Institutional Distribution & Archival · Documentary · Client: South African Music Foundation (SAMF)
+## Documentary · Institutional Distribution & Archival · Documentary · Client: SAMF
 
 ![SAMF Banner](assets/SAMF.webp)
 
